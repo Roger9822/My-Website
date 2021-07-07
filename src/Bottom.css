@@ -1,0 +1,11 @@
+
+.container{
+background: #000;
+}
+
+.copy {
+    position: absolute;
+    bottom: 0%;
+    color: whitesmoke;
+    text-align: center;
+}
