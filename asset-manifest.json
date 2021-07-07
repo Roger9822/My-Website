@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/My-Website/static/css/main.34f3697f.chunk.css",
+    "main.js": "/My-Website/static/js/main.17a06353.chunk.js",
+    "main.js.map": "/My-Website/static/js/main.17a06353.chunk.js.map",
+    "runtime-main.js": "/My-Website/static/js/runtime-main.ced27da3.js",
+    "runtime-main.js.map": "/My-Website/static/js/runtime-main.ced27da3.js.map",
+    "static/css/2.1e831c3e.chunk.css": "/My-Website/static/css/2.1e831c3e.chunk.css",
+    "static/js/2.166699f3.chunk.js": "/My-Website/static/js/2.166699f3.chunk.js",
+    "static/js/2.166699f3.chunk.js.map": "/My-Website/static/js/2.166699f3.chunk.js.map",
+    "index.html": "/My-Website/index.html",
+    "static/css/2.1e831c3e.chunk.css.map": "/My-Website/static/css/2.1e831c3e.chunk.css.map",
+    "static/css/main.34f3697f.chunk.css.map": "/My-Website/static/css/main.34f3697f.chunk.css.map",
+    "static/js/2.166699f3.chunk.js.LICENSE.txt": "/My-Website/static/js/2.166699f3.chunk.js.LICENSE.txt",
+    "static/media/Logo.4d310b86.jpg": "/My-Website/static/media/Logo.4d310b86.jpg",
+    "static/media/Sumant3.46f5b0f0.jpg": "/My-Website/static/media/Sumant3.46f5b0f0.jpg",
+    "static/media/Sumant4.c6dc2268.jpeg": "/My-Website/static/media/Sumant4.c6dc2268.jpeg",
+    "static/media/Sumant5.5238eb0a.jpg": "/My-Website/static/media/Sumant5.5238eb0a.jpg",
+    "static/media/airline.417d62e7.png": "/My-Website/static/media/airline.417d62e7.png",
+    "static/media/dcskull.68c53613.png": "/My-Website/static/media/dcskull.68c53613.png",
+    "static/media/dctext.eb8a68e7.png": "/My-Website/static/media/dctext.eb8a68e7.png",
+    "static/media/foodie.e2664ef8.png": "/My-Website/static/media/foodie.e2664ef8.png",
+    "static/media/tech.9250a4a1.png": "/My-Website/static/media/tech.9250a4a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ced27da3.js",
+    "static/css/2.1e831c3e.chunk.css",
+    "static/js/2.166699f3.chunk.js",
+    "static/css/main.34f3697f.chunk.css",
+    "static/js/main.17a06353.chunk.js"
+  ]
+}
