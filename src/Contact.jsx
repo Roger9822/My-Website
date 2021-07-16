@@ -27,10 +27,12 @@ Contact Me:  &nbsp; &nbsp;&nbsp; &nbsp;
 <a target="_sumant" href="https://www.linkedin.com/in/sumant-mulgaonkar-99a731175/"><LinkedInIcon/></a>     
 </div>
 
-<div className="details" >
-<sub><LocationOnIcon /></sub> Kavlekar Towers, Ansabhat, Mapusa, Goa. &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
-<sub><PhoneIcon/></sub> 7030463246&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
-<sub><EmailIcon1/></sub> mulgaonkarsumant163@gmail.com
+<div className="detail" >
+<div className="details1"><sub><LocationOnIcon /></sub> Kavlekar Towers, Ansabhat, Mapusa, Goa. </div>
+<div className="details2"><sub><PhoneIcon/></sub> 7030463246</div>
+<div className="details3"><sub><EmailIcon1/></sub> mulgaonkarsumant163@gmail.com</div>
+<br/>
+<br/>
  </div>
 
 </div>
