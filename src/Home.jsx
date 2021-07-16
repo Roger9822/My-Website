@@ -1,33 +1,39 @@
-
-
 import React from 'react';
-import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
-// import Sumant from "./Sumant.jpg";
-// import Sumant2 from "./Sumant2.jpg";
-import Sumant3 from "./Sumant3.jpg";
+import Sumant3 from "./Images/Sumant3.jpg";
 import  "./default.css";
-
-
-
+import Typed from "react-typed";
 const Home = () =>{
-return(
-    <>
-    <div>
-    <div style={{paddingLeft:'20%',paddingTop:'10%',float:'left', width:'60%'}}>
-    <h1 style={{fontSize:50 , color:'white'}} className="name"> <span>  Hi I'm Sumant Mulgaonkar </span></h1>
-  
-    <p style={{fontSize:40}}> I am Web Designer </p>
-    <p style={{fontSize:40}}> I am Game Developer</p>
-    
+    return (
+        <>
+       <br></br><br></br><br></br>  <br></br>
+       
+<div id="head">
+    <div className="info-c">
+    <br></br><br></br>
+    <h1 className="hi">   Hi I'm </h1>
+    <h1 className="name"><span>Sumant Mulgaonkar </span> </h1>
+    <br/>
+    <p className="line"> I am {' '}
+
+        <Typed
+                    className="typed-text"
+                    strings={["Web Developer", "Game Designer","Web Designer"]}
+                    typeSpeed={100}
+                    backSpeed={100}
+                    loop
+                />
+    </p>
+    </div>
+    <br/>
+  <div className="img-container" >
+  <img src={Sumant3} className="imagedp" alt="Sumant" />
+  </div>
     
     </div>
 
-  <div className="img-container" style={{float:'right' }} >
-  <img src={Sumant3} className="imagedp" alt="Sumant" />
-  </div>
-</div>
-    </>
-);
-};
 
+        </>
+        
+    )
+}
 export default Home;

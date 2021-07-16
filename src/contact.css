@@ -1,0 +1,72 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Bitter&family=Poppins:wght@200&display=swap');
+ 
+.border{
+    /* display: flex; */
+   /* border-top-right-radius: 50%;
+   border-top-left-radius: 50%; */
+    background-color:rgb(63, 62, 62);
+    color:white;
+    /* width:100%; */
+    /* margin-left: -10%; */
+   /* border-radius: 180% 180% 0 0; */
+   /* padding-top: 5%;
+   padding-left: 15%; */
+   border: 2px solid white;
+} 
+a, a:hover, a:visited, a:focus{
+    text-decoration: none;
+    color: inherit;
+}
+.links{
+ padding: 1% 35% 1% 25%;
+   font-size: 200%;
+   font-family: 'Poppins', sans-serif;
+   /* font-weight: bold; */
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.details {
+    font-size: 100%;
+    font-family: 'Poppins', sans-serif;
+font-weight: bold;
+}
+.details {
+    padding: 1% 15% 1% 15%; 
+    /* text-indent: 100px; */
+  
+}
+
+@media only screen and (max-width: 600px){
+    body{
+        overflow-x: hidden;
+    }
+    .links{
+        /* padding-left: 15%; */
+        padding:5%;
+        font-size: 100%;
+        text-align: center;
+    }
+
+    .links a{
+        font-size: 0.2rem;
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+    .details {
+   padding:5%;
+   font-size: 78%;
+   text-align: center;
+
+        /* text-indent: 100px; */
+      
+    }
+
+    /* .border{
+      
+        padding-left: 8%;
+    } */
+}
