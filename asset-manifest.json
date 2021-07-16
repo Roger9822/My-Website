@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/My-Website/static/css/main.79352ef4.chunk.css",
-    "main.js": "/My-Website/static/js/main.f05e825b.chunk.js",
-    "main.js.map": "/My-Website/static/js/main.f05e825b.chunk.js.map",
+    "main.css": "/My-Website/static/css/main.075b54f2.chunk.css",
+    "main.js": "/My-Website/static/js/main.90e3354c.chunk.js",
+    "main.js.map": "/My-Website/static/js/main.90e3354c.chunk.js.map",
     "runtime-main.js": "/My-Website/static/js/runtime-main.ced27da3.js",
     "runtime-main.js.map": "/My-Website/static/js/runtime-main.ced27da3.js.map",
     "static/js/2.5b388b8f.chunk.js": "/My-Website/static/js/2.5b388b8f.chunk.js",
     "static/js/2.5b388b8f.chunk.js.map": "/My-Website/static/js/2.5b388b8f.chunk.js.map",
     "index.html": "/My-Website/index.html",
-    "static/css/main.79352ef4.chunk.css.map": "/My-Website/static/css/main.79352ef4.chunk.css.map",
+    "static/css/main.075b54f2.chunk.css.map": "/My-Website/static/css/main.075b54f2.chunk.css.map",
     "static/js/2.5b388b8f.chunk.js.LICENSE.txt": "/My-Website/static/js/2.5b388b8f.chunk.js.LICENSE.txt",
     "static/media/Sumant3.46f5b0f0.jpg": "/My-Website/static/media/Sumant3.46f5b0f0.jpg",
     "static/media/airline.417d62e7.png": "/My-Website/static/media/airline.417d62e7.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.ced27da3.js",
     "static/js/2.5b388b8f.chunk.js",
-    "static/css/main.79352ef4.chunk.css",
-    "static/js/main.f05e825b.chunk.js"
+    "static/css/main.075b54f2.chunk.css",
+    "static/js/main.90e3354c.chunk.js"
   ]
 }
