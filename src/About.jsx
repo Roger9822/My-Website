@@ -7,7 +7,7 @@ const About = () =>{
     return (
       <>
       
-      <div id="about" style={{paddingLeft:'5%'}}>
+      <div id="about" style={{paddingLeft:'4%'}}>
       <br/> <br/> <br/><br/> <br/>
       {/* <h1 className="title" style={{fontSize:'200%'}}> <u style={{color:'yellow',paddingLeft:'42%'}}> ABOUT</u> <span style={{color:'white'}}> <u> ME </u> </span></h1> */}
       <p class="popout">
@@ -21,8 +21,9 @@ const About = () =>{
 	
 </p>
 
-
-    <h3 className="para" style={{marginLeft:'12%',marginRight:'10%'  ,color:"white",textAlign:'justify'}}>
+{/* 
+    <h3 className="para" style={{marginLeft:'12%',marginRight:'10%'  ,color:"white",textAlign:'justify'}}> */}
+    <p className="para">
       <b>  My name is Sumant Mulgaonkar, I am 21 years old. I born in Mumbai, India. Currently I am living 
         in Goa, India. I did my graduation in Bachelor in Computer Application(BCA). Now Currently I am 
         pursuing my 2nd year of Master in Computer Application(MCA). I am good at Web development and Game Development
@@ -32,7 +33,7 @@ const About = () =>{
    <br />
    <br />
    <br />  <br />
-   <br />  </h3>
+   <br />  </p>
     <span style={{fontSize:25 ,color:'yellowgreen',paddingLeft:'10%'}} > <u>WHAT I KNOW </u></span>
     
     <br /> 

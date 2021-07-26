@@ -63,6 +63,10 @@ font-weight: bold;
   }
   
   @media (max-width:600px) {
+    .nav-fixed-top {
+      top: 0;
+      border-width: 0 0 1px;
+  }
     .nav > .nav-btn {
       display: inline-block;
       position: absolute;
@@ -70,7 +74,7 @@ font-weight: bold;
       top: 0px;
     }
     .nav > .nav-btn > label {
-      display: inline-block;
+      display: inline-block ;
       width: 50px;
       height: 50px;
       padding: 13px;
@@ -107,4 +111,5 @@ font-weight: bold;
       height: calc(100vh - 50px);
       overflow-y: auto;
     }
+    
   }

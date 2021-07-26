@@ -151,9 +151,14 @@
   .progress-line.mern span::after{
     content: "40%";
   }
+
 .para{
   font-size: 120%;
-  font-family: 'Poppins', sans-serif;
+  font-family: Poppins, sans-serif;
+  margin-left: 9%;
+  margin-right: 10%;
+  color:antiquewhite;
+  text-align: justify;
 
 }
   @media only screen and (max-width: 600px) {
@@ -161,12 +166,17 @@
       margin-right: 23%;
     }
     .popout{
-      margin-left: -15%;
-      margin-right: 22%;
+      margin-left: -25%;
+      margin-right: 0%;
+      width: 110%;
     }
     .para{
-      margin-left: 0%;
-      margin-right: 20%;
+      font-size: 100%;
+  font-family: Poppins, sans-serif;
+  margin-left: 3%;
+  margin-right: 6%;
+  color:antiquewhite;
+  text-align: justify;
     }
   }
  
